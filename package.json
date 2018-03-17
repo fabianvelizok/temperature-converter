@@ -1,0 +1,20 @@
+{
+  "name": "converter",
+  "version": "0.1.0",
+  "description": "Temperature converter",
+  "main": "app/converter",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "temperature",
+    "converter"
+  ],
+  "author": "Fabián Veliz <velizfabianhoracio@gmail.com> (https://twitter.com/fabianvelizok)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4"
+  }
+}
